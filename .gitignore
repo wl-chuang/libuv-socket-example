@@ -1,0 +1,7 @@
+*.o
+output
+libuv-0.10.25
+
+socket-server
+socket-client
+
